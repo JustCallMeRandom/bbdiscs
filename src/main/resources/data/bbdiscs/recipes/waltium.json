@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#Lg",
+    "NCN",
+    "gH#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "L": {
+      "item": "minecraft:leather_helmet"
+    },
+    "g": {
+      "item": "minecraft:glass_bottle"
+    },
+    "N": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "H": {
+      "item": "minecraft:leather_boots"
+    }
+  },
+  "result": {
+    "item": "bbdiscs:waltium",
+    "count": 1
+  }
+}

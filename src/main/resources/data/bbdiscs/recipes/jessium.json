@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#LS",
+    "YAY",
+    "SN#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "L": {
+      "item": "minecraft:leather_helmet"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "Y": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "A": {
+      "item": "minecraft:apple"
+    },
+    "N": {
+      "item": "minecraft:leather_boots"
+    }
+  },
+  "result": {
+    "item": "bbdiscs:jessium",
+    "count": 1
+  }
+}

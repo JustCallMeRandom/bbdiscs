@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#L#",
+    "OBO",
+    "#L#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:red_wool"
+    },
+    "L": {
+      "item": "minecraft:light_gray_wool"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "B": {
+      "item": "bbdiscs:waltium"
+    }
+  },
+  "result": {
+    "item": "bbdiscs:walt_confession_disc",
+    "count": 1
+  }
+}

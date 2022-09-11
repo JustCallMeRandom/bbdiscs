@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gLg",
+    "RFR",
+    "EOE"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "L": {
+      "item": "minecraft:leather_helmet"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "F": {
+      "item": "minecraft:fire_charge"
+    },
+    "E": {
+      "item": "minecraft:leather_leggings"
+    },
+    "O": {
+      "item": "minecraft:leather_boots"
+    }
+  },
+  "result": {
+    "item": "bbdiscs:saulium",
+    "count": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gLg",
+    "RFR",
+    "HQG"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "L": {
+      "item": "minecraft:leather_helmet"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "H": {
+      "item": "minecraft:light_gray_dye"
+    },
+    "Q": {
+      "item": "minecraft:leather_boots"
+    },
+    "G": {
+      "item": "minecraft:gray_dye"
+    }
+  },
+  "result": {
+    "item": "bbdiscs:geneium",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#Hg",
+    "L L",
+    "gQ#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "H": {
+      "item": "bbdiscs:waltium"
+    },
+    "Q": {
+      "item": "bbdiscs:jessium"
+    },
+    "g": {
+      "item": "minecraft:ghast_tear"
+    },
+    "L": {
+      "item": "minecraft:light_blue_dye"
+    }
+  },
+  "result": {
+    "item": "bbdiscs:bb_theme_disc",
+    "count": 1
+  }
+}

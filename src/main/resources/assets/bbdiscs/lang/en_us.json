@@ -1,0 +1,17 @@
+{
+  "item.bbdiscs.bcs_theme_disc": "Better Call Saul Theme",
+  "item.bbdiscs.bcs_outro_disc": "Better Call Saul Outro",
+  "item.bbdiscs.bb_theme_disc": "Breaking Bad Theme",
+  "item.bbdiscs.walt_confession_disc": "Walter Hartwell White Confession",
+
+  "item.bbdiscs.bcs_theme_disc.desc": "Better Call Saul Theme - Little Barrie",
+  "item.bbdiscs.bcs_outro_disc.desc": "Better Call Saul Outro - Little Barrie",
+  "item.bbdiscs.bb_theme_disc.desc": "Breaking Bad Theme - Dave Porter",
+  "item.bbdiscs.walt_confession_disc.desc": "Walter Hartwell White Confession - Walter Hartwell White",
+
+  "item.bbdiscs.waltium": "Waltium",
+  "item.bbdiscs.jessium": "Jessium",
+  "item.bbdiscs.jimmium": "Jimmium",
+  "item.bbdiscs.saulium": "Saulium",
+  "item.bbdiscs.geneium": "Geneium"
+}

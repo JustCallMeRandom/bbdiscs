@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gLg",
+    "RDR",
+    "CMC"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "L": {
+      "item": "minecraft:leather_helmet"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "M": {
+      "item": "minecraft:leather_boots"
+    }
+  },
+  "result": {
+    "item": "bbdiscs:jimmium",
+    "count": 1
+  }
+}

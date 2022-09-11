@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    "JgV",
+    "G/G"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:red_wool"
+    },
+    "B": {
+      "item": "bbdiscs:saulium"
+    },
+    "J": {
+      "item": "bbdiscs:jimmium"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "V": {
+      "item": "bbdiscs:geneium"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "bbdiscs:bcs_theme_disc",
+    "count": 1
+  }
+}
